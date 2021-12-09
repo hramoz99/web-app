@@ -1,0 +1,305 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tomorrow:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+
+body, html{
+    height: 100%;
+    
+}
+
+
+
+.menu{
+    width: 100%;
+    height: 60px;
+    background-color: #1B57A6;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo h2{
+    font-family: 'Rampart One', cursive;
+    color: white;
+    padding-top: 10px;
+    padding-left: 40px;
+    font-size: 30px;
+}
+
+.icon_wpp{
+    position: fixed;
+    background-color: rgb(0, 196, 0);
+    border-radius: 50px;
+    width: 65px;
+    height: 65px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    top: 83%;
+    left: 91%;
+}
+
+.menu > ul{
+    list-style: none;
+    display: flex;
+    padding-right: 20px;
+    float: right;
+}
+
+
+.menu > ul > li > a{
+    color: white;
+    font-family: 'Gemunu Libre', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    letter-spacing: 0px;
+    
+}
+
+.menu > ul > li:hover{
+    background-color: rgb(6, 121, 228);
+    color: black;
+}
+
+.menu > ul > li{
+    margin-left: 10px;
+    list-style-type: none;
+    padding-left: 8px;
+    border-radius: 5px;
+    margin-top: 13px;
+}
+
+
+.carousel{
+   padding-bottom: 10px; 
+}
+
+.carousel-img{
+    height: 20%;
+}
+
+.h3-carousel p{
+    margin: 0;
+    font-family: "Tomorrow", cursive;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+
+.lambo{
+    width: 100%;
+    height: 30%;
+}
+
+.sobre{
+    width: 100%;
+    height: auto;
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Bebas Neue", cursive;
+    margin: 50px 0px;
+}
+
+.sobre-1{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-flow: wrap;
+}
+
+.sobre-p{
+    display: flex;
+    width: 40rem;
+    height:10rem;
+    margin: 55px 2rem;
+    flex-flow: wrap;
+}
+
+.fundo-sobre{
+    width: 300px;
+    height: 250px;
+    margin-left: 6rem;
+    margin-top: 20px;
+    flex-flow: wrap;
+}
+
+.sobre-2{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 30px;
+    flex-flow: wrap;
+    flex-direction: row-reverse;
+}
+
+.fundo-sobre{
+    width: 300px;
+    height: 250px;
+    margin-right: 6rem;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.cards>:hover> img{
+ 
+    width: 45%;
+    height: 45%;  
+   
+}
+
+
+
+
+
+.cards{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.card-serv{
+    width: 24rem;
+    height: 25rem;
+    border-radius: 10px;
+    -webkit-box-shadow: -1px 7px 11px 2px rgba(0,0,0,0.31);
+    -moz-box-shadow: -1px 7px 11px 2px rgba(0,0,0,0.31);
+    box-shadow: -1px 7px 11px 2px rgba(0,0,0,0.31);
+    margin: 1rem auto;
+    
+}
+
+.card-serv1{
+    width: 24rem;
+    height: 25rem;
+    border-radius: 10px;
+    -webkit-box-shadow: -1px 7px 11px 2px rgba(0,0,0,0.31);
+    -moz-box-shadow: -1px 7px 11px 2px rgba(0,0,0,0.31);
+    box-shadow: -1px 7px 11px 2px rgba(0,0,0,0.31);
+    margin: 1rem auto;
+    
+}
+
+.card-serv1 img{
+    margin-left: 33%;
+    margin-top: 20px;
+    width: 35%;
+    height: 35%;
+    
+}
+
+.card-serv img{
+    margin-left: 30%;
+    margin-top: 5px;
+}
+
+
+.card-serv1 h4{
+    font-family: 'Gemunu Libre', sans-serif;
+    text-align: center;
+    font-size: 26px;
+    margin-top: 15px;
+}
+
+
+.card-serv h4{
+    font-family: 'Gemunu Libre', sans-serif;
+    text-align: center;
+    font-size: 26px;
+    margin-top: 15px;
+}
+
+
+.card-serv1 p{
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.card-serv p{
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.localizacao{
+    width: 100%;
+    height: auto;
+   
+}
+
+
+.localizacao img{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 180px;
+}
+
+footer{
+    width: 100%;
+    height: auto;
+    background-color: #1B57A6;
+    text-align: left;
+    display: flex;
+}
+
+.nav-footer > ul > li > a{
+    color: white;
+    font-family: "Gemunu Libre", sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 768px){
+    .cards{
+    flex-direction: column;
+    }
+
+    .icon_wpp{
+        left: 83%;
+    }
+
+    .localizacao img{
+      width: 100%;
+      height: 250px;
+      margin-bottom: 180px;
+    }
+
+    .carousel-img{
+      width: 100%;
+      height: 30%;
+    }
+
+    .logo h2{
+        font-size: 18px;
+    }
+}
+
+

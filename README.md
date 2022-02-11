@@ -21,17 +21,10 @@ O Amazon RDS facilita a configuração, escalabilidade e a operação de bancos 
 
 ### Simple Storage Service <img src="https://user-images.githubusercontent.com/78046279/153674169-7d929c37-adec-4d3b-96f9-ecbf0e4c8bc6.png" width="21px">
 O Amazon S3 é um storage de bloco, então, é essencial para aplicativos estáticos, por isso, armazenaremos o front-end no serviço.
-
-### AWS Elastic Beanstalk  <img src="https://user-images.githubusercontent.com/78046279/153673039-fa0fea43-f7b1-4100-857a-2a9bb4825b8c.png" width="20px">
-O Amazon Elastic Beanstalk é um serviço de fácil utilização para implantação e escalabilidade de aplicações e serviços web. É possível implantar e gerenciar rapidamente aplicativos na nuvem AWS sem se preocupar com a infraestrutura que executa esses aplicativos.
  
 ### Virtual Private Cloud <img src="https://user-images.githubusercontent.com/78046279/153673378-54b76689-b819-4fcb-ae1e-9d96249f115e.png" width="21px">
 O Amazon Virtual Private Cloud oferece controle total sobre seu ambiente de rede virtual, sendo assim, utilizado para a proteção e acoplamento do site com os outros serviços.
      
-### Cloud Front <img src="https://user-images.githubusercontent.com/78046279/153673714-496857b0-4495-41b0-bda4-71510e845a73.png" width="21px">
-
-O Amazon Cloud front é um serviço da web que acelera a distribuição do conteúdo estático e dinâmico.
-
 ### Cloudwatch <img src="https://user-images.githubusercontent.com/78046279/153673671-fb11d815-bee9-4e57-b668-97ba4d6f9030.png" width="20px">
 
 O Amazon CloudWatch é um serviço de monitoramento e observação.

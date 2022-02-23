@@ -13,19 +13,19 @@
 
 
 ## SERVIÇOS - AWS 
-### Amazon Elastic Compute Cloud <img src="https://user-images.githubusercontent.com/78046279/153673527-76466881-f3a1-4c59-a256-d24a6e0ca370.png" width="20px">
+### Amazon Elastic Compute Cloud 
 O Amazon Elastic Compute Cloud disponibiliza capacidade computacional segura e redimensionável na nuvem para que se torne um servidor. 
 
-### Relational Database Service <img src="https://user-images.githubusercontent.com/78046279/153673761-5fb9d0d0-be1a-4e56-9d35-f327fd00f935.png" width="21px">
+### Relational Database Service 
 O Amazon RDS facilita a configuração, escalabilidade e a operação de bancos de dados na nuvem.
 
-### Simple Storage Service <img src="https://user-images.githubusercontent.com/78046279/153674169-7d929c37-adec-4d3b-96f9-ecbf0e4c8bc6.png" width="21px">
+### Simple Storage Service 
 O Amazon S3 é um storage de bloco, então, é essencial para aplicativos estáticos, por isso, armazenaremos o front-end no serviço.
  
-### Virtual Private Cloud <img src="https://user-images.githubusercontent.com/78046279/153673378-54b76689-b819-4fcb-ae1e-9d96249f115e.png" width="21px">
+### Virtual Private Cloud
 O Amazon Virtual Private Cloud oferece controle total sobre seu ambiente de rede virtual, sendo assim, utilizado para a proteção e acoplamento do site com os outros serviços.
      
-### Cloudwatch <img src="https://user-images.githubusercontent.com/78046279/153673671-fb11d815-bee9-4e57-b668-97ba4d6f9030.png" width="20px">
+### Cloudwatch
 
 O Amazon CloudWatch é um serviço de monitoramento e observação.
 

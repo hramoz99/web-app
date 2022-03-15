@@ -8,9 +8,9 @@
 
 ## Funcionalidade 🧠
 
-. Fácil acesso
-. Visualização de pré-orçamentos
-. Ausência de deslocamento 
+- Fácil acesso
+- Visualização de pré-orçamentos
+- Ausência de deslocamento 
 
 ## Sistema Web
 - .NET

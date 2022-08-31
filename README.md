@@ -16,7 +16,6 @@
 ## Sistema Web 💻
 - .NET
 - Java Script
-- CSS
 - HTML
  
  

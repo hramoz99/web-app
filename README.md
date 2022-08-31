@@ -11,7 +11,7 @@
 - Fácil acesso
 - Visualização de pré-orçamentos
 - Ausência de deslocamento 
-- Agilidade e Velocidade
+- Agilidade
 
 ## Sistema Web 💻
 - .NET

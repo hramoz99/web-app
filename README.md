@@ -11,11 +11,12 @@
 - Fácil acesso
 - Visualização de pré-orçamentos
 - Ausência de deslocamento 
-- Agilidade
+- Agilidade 
 
 ## Sistema Web 💻
 - .NET
 - Java Script
+- CSS
 - HTML
  
  

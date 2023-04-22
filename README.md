@@ -19,7 +19,7 @@
 - HTML
  
  
-## Tecnologia e Ferramentas 🛠
+## Tecnologias e Ferramentas 🛠
 
 - [Microsoft SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 - [Microsoft SQL Management Studio](https://cloud.saveincloud.com.br/lp/cloud-sql-server/?camp=LP-mysql_mariadb_server_google&gclid=CjwKCAjw8sCRBhA6EiwA6_IF4bTTx2elRrWT9qkqj6MxefC1TAymmMznp8s3x_HgPJVajXLaxi-xnhoC_18QAvD_BwE#3)

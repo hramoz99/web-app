@@ -17,6 +17,7 @@
 - .NET
 - Java Script
 - HTML
+- CSS
  
  
 ## Tecnologias e Ferramentas 🛠

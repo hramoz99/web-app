@@ -6,7 +6,7 @@
 ## Descrição 💬
 *A funilaria “Dois Irmãos” está perdendo clientes para seus concorrentes, por conta de suas tecnologias antigas e a ausência de pontos de acesso à distância. Os alunos do SENAI foram convocados para solucionar os problemas e automatizar os processos remotos. Nesse sentido, foi utilizado métodos de IA para o reconhecimento das imagens das placas veiculares dos usuários. Assim, gerando os orçamentos pré-existentes para os problemas usuais diante da marca e modelo do veículo.*
 
-## Funcionalidade 🧠
+## Funcionalidades 🧠
 
 - Fácil acesso
 - Visualização de pré-orçamentos

@@ -26,7 +26,7 @@ const Permissao = ({ component : Component  }) => (
     render = { props =>
       // Verifica se o usuário está logado e se é Administrador
       usuarioAutenticado() && parseJwt().role === "1" || usuarioAutenticado() && parseJwt().role === "2"  ? 
-      // Se sim, renderiza de acordo com a rota solicitada e permitida
+      // Se sim, renderiza de acordo com a rota solicitada
       <Component {...props} /> : 
       // Se não, redireciona para a página de login
       <Redirect to = '/' />
